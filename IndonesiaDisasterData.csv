@@ -1,4 +1,4 @@
-,Serial,Event,Province,District,SubDistrict,Date,Location,Deaths,Injured,Missing,House_Destroyed,House_Damaged,Directly_Affected,Indirectly_Affected,Relocated,Evacuated,LossesUSD,LossesLocal,EducationCenter,Hospitals,CropsDamageHa,CattleLoss,RoadDamageM,GLIDENum,Comments
+,serial,event,province,district,sub_district,date,location,deaths,injured,missing,house_destroyed,house_damaged,directly_affected,indirectly_affected,relocated,evacuated,losses_USD,losses_local,education_center,hospitals,crops_damageHa,cattle_loss,road_damage_M,GLIDE_num,Comments
 0,"
 			13
 ",LANDSLIDES, SULAWESI SELATAN, TANA TORAJA, MENGKENDEK,2020/02/29, Kec. Mengkendek Lembang Mengkendek , , , , , , , , , ,0,0, , , ,0 , , , 
@@ -99000,3 +99000,33 @@
 32999,"
 			11
 ",FLOODS, JAWA TIMUR, MOJOKERTO, ,1836/03/22,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33000,"
+			10
+",EARTHQUAKE, MALUKU, KOTA AMBON, ,1835/11/01,  ,,60,,,, ,60, , ,0,0, , , ,0 , , , 
+33001,"
+			8
+",EARTHQUAKE, JAWA BARAT, BOGOR, ,1834/10/01,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33002,"
+			6
+",EARTHQUAKE, MALUKU, KOTA AMBON, ,1830/03/28,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33003,"
+			4
+",ERUPTION, JAWA BARAT, GARUT, ,1825/06/14,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33004,"
+			2
+",FLOODS, SUMATERA BARAT, KOTA PADANG, ,1822/10/01,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33005,"
+			9
+",ERUPTION, BENGKULU, REJANG LEBONG, ,1834/11/21,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33006,"
+			7
+",EARTHQUAKE, DKI JAKARTA, KOTA JAKARTA SELATAN, ,1833/01/28,  ,,,,,, ,, , ,0,0, , , ,0 , , , 
+33007,"
+			5
+",EARTHQUAKE, SULAWESI SELATAN, BULUKUMBA, ,1828/09/07,  ,100,,,,, ,, , ,0,0, , , ,0 , , , 
+33008,"
+			3
+",ERUPTION, JAWA BARAT, TASIKMALAYA, ,1822/10/08,  ,4011,,,,, ,, , ,0,0, , , ,0 , , , 
+33009,"
+			1
+",ERUPTION, NUSA TENGGARA BARAT, SUMBAWA, ,1815/04/10,  ,10000,,,,, ,, , ,0,0, , , ,0 , , , 
